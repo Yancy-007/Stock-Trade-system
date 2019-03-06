@@ -8,7 +8,7 @@
 
 
 // Function1 dialog
-
+//TEST2
 IMPLEMENT_DYNAMIC(Function1, CDialogEx)
 
 Function1::Function1(CWnd* pParent /*=nullptr*/)
